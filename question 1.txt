@@ -1,0 +1,12 @@
+cd C:\Users\adity\Downloads\project
+git init
+git -m commit "first commit"
+cd C:\Users\adity\Downloads\project\html files
+git add .
+git -m commit "html files added
+cd C:\Users\adity\Downloads\project\css files
+git add .
+git -m commit "css files added"
+git remote add origin "https://github.com/hanumadityanffm-cyber/kl-project"
+git -u push origin
+
